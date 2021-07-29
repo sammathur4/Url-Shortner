@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../Surlshortner/.idea/Surlshortner.iml" filepath="$PROJECT_DIR$/../Surlshortner/.idea/Surlshortner.iml" />
       <module fileurl="file://$USER_HOME$/Desktop/django_url_shortner-main/.idea/django_url_shortner-main.iml" filepath="$USER_HOME$/Desktop/django_url_shortner-main/.idea/django_url_shortner-main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/urlshortner1.iml" filepath="$PROJECT_DIR$/.idea/urlshortner1.iml" />
     </modules>

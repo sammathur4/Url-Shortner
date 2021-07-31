@@ -7,5 +7,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="django_url_shortner-main" />
+    <orderEntry type="module" module-name="Surlshortner" />
   </component>
 </module>
